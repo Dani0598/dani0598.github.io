@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>3D drukāšana</title>
+	
 	<meta charset="utf-8"  />
 </head>
 <body>
